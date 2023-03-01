@@ -5,21 +5,21 @@
 
 - I am pursuing my Engineering from **Dr. DY Patil Institute of Engineering Management and Research Akurdi Pune**
 
-- I have interests in **Deep Learning and Data Science**
+-
 
-- At present i am into [Developement and Design]
+- At present i am into [FrontEnd Developement and Design]
 
 - 👨‍💻 FrontEnd Projects [https://github.com/itsSushant](https://github.com/itsSushant)
 
 - 👨‍💻 UI UX Projects [https://dribbble.com/SushantJadhav13](https://dribbble.com/SushantJadhav13)
 
-- 💬 Ask me about **React , Java , Designing**
+- 💬 Ask me about **React , Java , UIUX **
 
 - 📫 How to reach me **sushantjadhav393@gmail.com**
 
 - 📄 My Experiences and many more [https://www.linkedin.com/in/sushant-s-jadhav/](https://www.linkedin.com/in/sushant-s-jadhav/)
 
-- ⚡ Fun fact **Creative Funny Person . 😉**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
