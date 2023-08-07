@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itssushant&label=Profile%20views&color=0e75b6&style=flat" alt="itssushant" /> </p>
 
-- I am pursuing my Engineering from **Dr. DY Patil Institute of Engineering Management and Research Akurdi Pune**
+BE EnTC Enginnering from **Dr. DY Patil Institute of Engineering Management and Research Akurdi Pune**
 
 -
-
-- At present i am into [FrontEnd Developement and Design]
+UI UX Designer 
 
 - 👨‍💻 FrontEnd Projects [https://github.com/itsSushant](https://github.com/itsSushant)
 
