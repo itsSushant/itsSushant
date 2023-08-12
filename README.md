@@ -3,20 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itssushant&label=Profile%20views&color=0e75b6&style=flat" alt="itssushant" /> </p>
 
-BE EnTC Enginnering from **Dr. DY Patil Institute of Engineering Management and Research Akurdi Pune**
+👨‍🎓I am Sushant Jadhav , pursued engineering journey from D.Y. Patil Institute of Engineering Management and Research Akurdi, Pune.
+💻I am a Competitive Coder as well as a Data enthusiast.
+🏆🥇I am into UI/UX Design , Product Design , Frontend Development with over 3 years of Experience 
 
--
-UI UX Designer 
 
-- 👨‍💻 FrontEnd Projects [https://github.com/itsSushant](https://github.com/itsSushant)
-
-- 👨‍💻 UI UX Projects [https://dribbble.com/SushantJadhav13](https://dribbble.com/SushantJadhav13)
-
-- 💬 Ask me about **React , Java , UIUX **
-
-- 📫 How to reach me **sushantjadhav393@gmail.com**
-
-- 📄 My Experiences and many more [https://www.linkedin.com/in/sushant-s-jadhav/](https://www.linkedin.com/in/sushant-s-jadhav/)
 
 
 
